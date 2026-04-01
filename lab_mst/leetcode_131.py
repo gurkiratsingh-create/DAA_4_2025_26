@@ -1,3 +1,4 @@
+
 class Solution:
     def partition(self, s: str) -> List[List[str]]:
         path=[]
@@ -14,4 +15,3 @@ class Solution:
                     path.pop()
         backtrack(0)
         return result
-        

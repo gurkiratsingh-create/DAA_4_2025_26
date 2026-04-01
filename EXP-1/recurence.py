@@ -1,3 +1,4 @@
+
 import time
 
 operations = 0
@@ -47,6 +48,4 @@ for n in [8, 16, 32, 64]:
 
 # recursion relation = T(n)=3T(n/2)+nlogn
 # O(n^logbase2 3)
-
-
 

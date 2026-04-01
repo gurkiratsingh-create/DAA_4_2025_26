@@ -20,5 +20,3 @@ class Solution:
             if dfs(i, visited, 1):
                 return 1
         return 0
-
-                    
