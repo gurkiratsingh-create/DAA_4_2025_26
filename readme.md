@@ -246,5 +246,5 @@ DAA-Lab/
 <h2 align="center">🌟 If you like this repository, give it a star!</h2>
 
 <p align="center">
-Made with ❤️ by <b>Gurkirat Singh</b>
+Made by <b>Gurkirat Singh</b>
 </p>
